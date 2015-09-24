@@ -1605,7 +1605,6 @@ StScrollBar StButton#hhandle:focus {
    ===================================================================*/
 /* Use to override the '.popup-menu-content' selector. */
 .weather-menu .popup-menu-content {
-  padding-top: 6px;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -1639,7 +1638,7 @@ StScrollBar StButton#hhandle:focus {
 }
 
 .weather-current-iconbox {
-  padding: 1em;
+  padding: 0.2em 1em 1em 1em;
 }
 
 .weather-current-icon {
