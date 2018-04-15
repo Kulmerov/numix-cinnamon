@@ -1,10 +1,10 @@
 {
    "cinnamon-theme": {
-        "name" : "Numix-Cinnamon",
+        "name" : "Numix-Cinnamon_kulmerov",
         "author" : "zagortenay333",
         "version" : "",
         "type" : "custom",
         "thumbnail" : "thumbnail.png",
-        "url" : "https://github.com/zagortenay333/numix-cinnamon"
+        "url" : ""
     }
 }
